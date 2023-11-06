@@ -5,11 +5,10 @@
 </h2>
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaks1331-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaks1331) 
-<h3><samp>⚡️ Мой стек:</samp></h3>
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaks1331-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaks1331)
 
 
-
+<h3><samp>👨🏻‍💻 Мой стек:</samp></h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-3b3b3b?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-3b3b3b?style=flat&logo=css3)
