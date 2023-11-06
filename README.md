@@ -1,6 +1,8 @@
-<h1 align="center">Привет 👋</h1>
-<h3 align="center">Меня зовут Яков, я начинающий фронтенд-разработчик из Москвы  💻</h3>
-
+<h2 align="center">
+    <samp>
+        Всем привет 👋<br>Меня зовут Яков, я начинающий фронтенд-разработчик из Москвы 💻
+    </samp>
+</h2>
 
 <!--
 **YakubovYakov/YakubovYakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
