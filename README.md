@@ -4,6 +4,8 @@
     </samp>
 </h2>
 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaks1331-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaks1331)
+
 <h3><samp>⚡️ Мой стек:</samp></h3>
 
 
