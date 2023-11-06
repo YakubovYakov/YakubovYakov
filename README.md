@@ -5,8 +5,7 @@
 </h2>
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaks1331-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaks1331) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakubov01yakov@yandex.ru)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-yaks1331-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaks1331) 
 <h3><samp>⚡️ Мой стек:</samp></h3>
 
 
@@ -19,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3b3b3b?style=flat&logo=mongodb)
 
 ### 💻 Пройденные курсы:
 
