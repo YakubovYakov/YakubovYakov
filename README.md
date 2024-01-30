@@ -19,6 +19,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3b3b3b?style=flat&logo=mongodb)
+![Vue](https://img.shields.io/badge/-Vue-3b3b3b?style=flat&logo=vue)
 
 ### 💻 Пройденные курсы:
 
