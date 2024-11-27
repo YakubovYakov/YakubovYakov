@@ -1,6 +1,6 @@
 <h2 align="center">
     <samp>
-        Всем привет 👋<br>Меня зовут Яков, я начинающий фронтенд-разработчик 💻
+<!--         Всем привет 👋<br>Меня зовут Яков, я начинающий фронтенд-разработчик 💻 -->
     </samp>
 </h2>
 
@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3b3b3b?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-3b3b3b?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3b3b3b?style=flat&logo=mongodb)
 ![Vue](https://img.shields.io/badge/-Vue-3b3b3b?style=flat&logo=vue)
